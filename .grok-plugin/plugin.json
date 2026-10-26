@@ -1,0 +1,11 @@
+{
+  "name": "byob",
+  "version": "1.0.0",
+  "description": "Connect your AI assistant to BYOB (byobgh.com), Ghana's phone and electronics retail and delivery platform. Sign in with your BYOB account; tools follow your role (sales agent, rider, warehouse, admin).",
+  "author": { "name": "PED Solution Studio", "email": "support@byobgh.com", "url": "https://byobgh.com" },
+  "homepage": "https://byobgh.com",
+  "repository": "https://github.com/pedmindset/byob-mcp",
+  "license": "MIT",
+  "keywords": ["byob", "byobgh", "byob ghana"],
+  "logo": "assets/logo.png"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "byob": {
+      "type": "http",
+      "url": "https://byobgh.com/mcp/byob"
+    }
+  }
+}

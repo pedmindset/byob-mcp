@@ -1,0 +1,12 @@
+{
+  "name": "byob",
+  "displayName": "BYOB",
+  "version": "1.0.0",
+  "description": "Connect Cursor to BYOB (byobgh.com) via its remote MCP server with OAuth sign-in. Tools follow your BYOB role.",
+  "author": { "name": "PED Solution Studio", "email": "support@byobgh.com" },
+  "homepage": "https://byobgh.com",
+  "repository": "https://github.com/pedmindset/byob-mcp",
+  "license": "MIT",
+  "keywords": ["byob", "byobgh", "mcp"],
+  "logo": "assets/logo.png"
+}
