@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pedmindset/byob",
+  "title": "BYOB",
+  "description": "BYOB (byobgh.com): search stock and manage orders, deliveries, returns and commissions. OAuth.",
+  "version": "1.0.0",
+  "websiteUrl": "https://byobgh.com",
+  "repository": {
+    "url": "https://github.com/pedmindset/byob-mcp",
+    "source": "github"
+  },
+  "icons": [
+    { "src": "https://raw.githubusercontent.com/pedmindset/byob-mcp/main/assets/logo.png", "mimeType": "image/png", "sizes": ["512x512"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://byobgh.com/mcp/byob" }
+  ]
+}
